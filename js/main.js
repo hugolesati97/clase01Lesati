@@ -1,5 +1,12 @@
-var hugo;
+// let edad = 23;
+// let year = 1997;
+// let mensaje1 = "La edad de Hugo es " + edad;
+// console.log(mensaje1);
 
-var hugo = "lesati";
+let nombre = prompt ("Ingrese su nombre");
+let edad = prompt ("Ingrese su edad");
+let mensaje = "Hola " + nombre ;
 
-console.log(hugo);
+alert(mensaje)
+console.log(nombre);
+console.log(edad);
